@@ -1,0 +1,18 @@
+{
+    "storage_file": "data/readings.json",
+    "historical_data_file": "data/historical_readings.csv",
+    "host": "0.0.0.0",
+    "port": 8000,
+    "thresholds": {
+        "pm25_safe": 25.0,
+        "pm25_moderate": 50.0,
+        "pm25_danger": 75.0,
+        "pm10_safe": 50.0,
+        "pm10_moderate": 100.0,
+        "pm10_danger": 150.0
+    },
+    "map_config": {
+        "default_zoom": 7,
+        "map_style": "open-street-map"
+    }
+}

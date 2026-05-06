@@ -1,0 +1,152 @@
+[
+  {
+    "id": "sensor_amsterdam_001",
+    "location": "POINT(4.9041 52.3676)",
+    "metadata": {
+      "region": "Amsterdam",
+      "province": "North Holland",
+      "deployment_date": "2024-01-15",
+      "site_type": "urban_center"
+    }
+  },
+  {
+    "id": "sensor_rotterdam_001",
+    "location": "POINT(4.4792 51.9225)",
+    "metadata": {
+      "region": "Rotterdam",
+      "province": "South Holland",
+      "deployment_date": "2024-01-20",
+      "site_type": "port_area"
+    }
+  },
+  {
+    "id": "sensor_den_haag_001",
+    "location": "POINT(4.3007 52.0705)",
+    "metadata": {
+      "region": "The Hague",
+      "province": "South Holland",
+      "deployment_date": "2024-02-01",
+      "site_type": "government_district"
+    }
+  },
+  {
+    "id": "sensor_utrecht_001",
+    "location": "POINT(5.1214 52.0907)",
+    "metadata": {
+      "region": "Utrecht",
+      "province": "Utrecht",
+      "deployment_date": "2024-02-10",
+      "site_type": "city_center"
+    }
+  },
+  {
+    "id": "sensor_eindhoven_001",
+    "location": "POINT(5.4697 51.4416)",
+    "metadata": {
+      "region": "Eindhoven",
+      "province": "North Brabant",
+      "deployment_date": "2024-02-15",
+      "site_type": "tech_hub"
+    }
+  },
+  {
+    "id": "sensor_tilburg_001",
+    "location": "POINT(5.0913 51.5555)",
+    "metadata": {
+      "region": "Tilburg",
+      "province": "North Brabant",
+      "deployment_date": "2024-03-01",
+      "site_type": "residential"
+    }
+  },
+  {
+    "id": "sensor_groningen_001",
+    "location": "POINT(6.5665 53.2194)",
+    "metadata": {
+      "region": "Groningen",
+      "province": "Groningen",
+      "deployment_date": "2024-03-05",
+      "site_type": "university_area"
+    }
+  },
+  {
+    "id": "sensor_almere_001",
+    "location": "POINT(5.2647 52.3508)",
+    "metadata": {
+      "region": "Almere",
+      "province": "Flevoland",
+      "deployment_date": "2024-03-10",
+      "site_type": "new_development"
+    }
+  },
+  {
+    "id": "sensor_breda_001",
+    "location": "POINT(4.7683 51.5719)",
+    "metadata": {
+      "region": "Breda",
+      "province": "North Brabant",
+      "deployment_date": "2024-03-15",
+      "site_type": "city_center"
+    }
+  },
+  {
+    "id": "sensor_nijmegen_001",
+    "location": "POINT(5.8525 51.8426)",
+    "metadata": {
+      "region": "Nijmegen",
+      "province": "Gelderland",
+      "deployment_date": "2024-04-01",
+      "site_type": "riverside"
+    }
+  },
+  {
+    "id": "sensor_enschede_001",
+    "location": "POINT(6.8937 52.2215)",
+    "metadata": {
+      "region": "Enschede",
+      "province": "Overijssel",
+      "deployment_date": "2024-04-05",
+      "site_type": "border_town"
+    }
+  },
+  {
+    "id": "sensor_haarlem_001",
+    "location": "POINT(4.6462 52.3874)",
+    "metadata": {
+      "region": "Haarlem",
+      "province": "North Holland",
+      "deployment_date": "2024-04-10",
+      "site_type": "historic_center"
+    }
+  },
+  {
+    "id": "sensor_arnhem_001",
+    "location": "POINT(5.8987 51.9851)",
+    "metadata": {
+      "region": "Arnhem",
+      "province": "Gelderland",
+      "deployment_date": "2024-04-15",
+      "site_type": "urban"
+    }
+  },
+  {
+    "id": "sensor_zaanstad_001",
+    "location": "POINT(4.8258 52.4389)",
+    "metadata": {
+      "region": "Zaanstad",
+      "province": "North Holland",
+      "deployment_date": "2024-04-20",
+      "site_type": "industrial"
+    }
+  },
+  {
+    "id": "sensor_amersfoort_001",
+    "location": "POINT(5.3878 52.1561)",
+    "metadata": {
+      "region": "Amersfoort",
+      "province": "Utrecht",
+      "deployment_date": "2024-04-25",
+      "site_type": "suburban"
+    }
+  }
+]
